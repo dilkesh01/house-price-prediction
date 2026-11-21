@@ -82,7 +82,7 @@ pip install -r requirements.txt
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Shreyas3108/house-price-prediction.git
+git clone https://github.com/dilkesh01/house-price-prediction.git
 cd house-price-prediction
 ```
 
@@ -120,7 +120,7 @@ To achieve over **85% prediction accuracy** in estimating house prices using reg
 
 ## 📌 Credits
 
-Written by **Shreyas Raghavan**
+Written by **Dilkesh Meena**
 Originally published on Medium: *[https://medium.com/data-science/create-a-model-to-predict-house-prices-using-python-d34fe8fad88f]*
 
 ---
