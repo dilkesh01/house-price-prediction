@@ -121,7 +121,7 @@ To achieve over **85% prediction accuracy** in estimating house prices using reg
 ## 📌 Credits
 
 Written by **Dilkesh Meena**
-Originally published on Medium: *[https://medium.com/data-science/create-a-model-to-predict-house-prices-using-python-d34fe8fad88f]*
+Originally published on Medium: *[https://medium.com/@balbantboy/house-price-prediction-using-machine-learning-5f28f93436e5?postPublishedType=initial]*
 
 ---
 
