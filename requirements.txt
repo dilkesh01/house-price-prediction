@@ -1,0 +1,1 @@
+fastapi==0.115.12\nuvicorn[standard]==0.34.0\npandas==2.2.3\nnumpy==2.2.4\nscikit-learn==1.6.1\njoblib==1.4.2\npydantic==2.10.6\n
